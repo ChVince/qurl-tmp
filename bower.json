@@ -1,0 +1,24 @@
+{
+  "name": "qurl-ext",
+  "main": "dist/qurl.min.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/pmstss/qurl-tmp",
+  "authors": [
+    "Ryan Burnette <ryan.burnette@gmail.com>",
+    "Viachaslau Tyshkavets <pmstss@gmail.com>",
+  ],
+  "description": "A browser JavaScript library for getting and setting query parameters, AMD compliant.",
+  "keywords": [
+    "query",
+    "parameters",
+    "javascript",
+    "browser",
+    "get"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test"
+  ]
+}
