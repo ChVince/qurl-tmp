@@ -5,7 +5,7 @@
   "homepage": "https://github.com/pmstss/qurl-tmp",
   "authors": [
     "Ryan Burnette <ryan.burnette@gmail.com>",
-    "Viachaslau Tyshkavets <pmstss@gmail.com>",
+    "Viachaslau Tyshkavets <pmstss@gmail.com>"
   ],
   "description": "A browser JavaScript library for getting and setting query parameters, AMD compliant.",
   "keywords": [
