@@ -1,0 +1,49 @@
+{
+  "_from": "qurl-ext@~0.2.0",
+  "_id": "qurl-ext@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-0JfIkJ0lmtrejK4/H16v+NuAqq8=",
+  "_location": "/qurl-ext",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "qurl-ext@~0.2.0",
+    "name": "qurl-ext",
+    "escapedName": "qurl-ext",
+    "rawSpec": "~0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "~0.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/qurl-ext/-/qurl-ext-0.2.0.tgz",
+  "_shasum": "d097c8909d259adade8cae3f1f5eaff8db80aaaf",
+  "_spec": "qurl-ext@~0.2.0",
+  "_where": "/Users/elizarkondrasov/work/Silkailines/lookup/frontend/3.0/client",
+  "author": {
+    "name": "Ryan Burnette",
+    "email": "ryan.burnette@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ChVince/qurl-tmp/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A browser JavaScript library for getting and setting query parameters.",
+  "homepage": "https://github.com/ChVince/qurl-tmp#readme",
+  "keywords": [
+    "query",
+    "parameters",
+    "javascript",
+    "browser"
+  ],
+  "license": "Apache2",
+  "name": "qurl-ext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChVince/qurl-tmp.git"
+  },
+  "version": "0.2.1"
+}

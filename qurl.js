@@ -30,11 +30,12 @@
         if (!string) {
             return obj;
         }
+        string = decodeURIComponent(string);
         string = string.replace('?', '');
 
         pairs = string.split('&');
         pairs.forEach(function (p) {
-            var pair = decodeURIComponent(p).split('=');
+            var pair = p.split('=');
             obj[pair[0]] = pair[1];
         });
 
